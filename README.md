@@ -9,6 +9,9 @@ My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Compute
   <br/>
 </p>
 
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
 ## :zap: Skills
 <a href="https://www.python.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="90" />
