@@ -62,8 +62,6 @@
 <details>
   <summary><b>Tap Me</b></summary>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations&large=true&theme=dark"/>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
 </p>
   </details>
 
