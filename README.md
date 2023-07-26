@@ -4,7 +4,7 @@
 
 <p align="center" >
   <samp>
-    Hey, My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Computer Science at Purdue University. I am committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest technologies and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Computer Science at Purdue University. I am committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest technologies and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
   </samp>
   <br/>
 </p>
