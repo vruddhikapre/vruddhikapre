@@ -19,9 +19,6 @@
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="90" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" height="90" />
-</a>
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="90" />
 </a>
@@ -64,14 +61,14 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blog.rushikesh.me/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
+  <img src="https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations"/>
  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
 </p>
   </details>
 
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people and making connections, so feel free to say hi! I'd love to get to know you better and chat with you!</b> 😊</em>
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
