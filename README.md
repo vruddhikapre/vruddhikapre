@@ -61,7 +61,7 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
-  <img src="https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations"/>
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations"/>
  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
 </p>
@@ -70,7 +70,7 @@
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people and making connections, so feel free to say hi! I'd love to get to know you better and chat with you!</b> 😊</em>
    
-## 📫 How to reach me? 
+## 📫 How can you get in touch with me?? 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vruddhi-kapre/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://vruddhikapre.hashnode.dev/) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:vruddhi.kapre24@gmail.com) 💌 <br>
