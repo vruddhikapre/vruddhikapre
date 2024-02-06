@@ -68,8 +68,7 @@ My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Compute
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/linux-essentials-beginners-guide&large=true&theme=dark"/>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/linux-command-line-mastery-unlocking-the-potential-of-the-terminal&large=true&theme=dark"/>
  
-</p>
-  </details>
+</details>
 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people and making connections, so feel free to say hi! I'd love to get to know you better and chat with you!</b> 😊</em>
