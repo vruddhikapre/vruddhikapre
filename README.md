@@ -61,6 +61,10 @@ My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Compute
   </a>
 
   ## Hashnode Blogs (Expand to View)
+<details>
+  <summary><b>Tap Me</b></summary>
+  <iframe src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations&large=true&theme=dark" width="100%" height="400" frameborder="0"></iframe>
+</details>
 
 <details>
   <summary><b>Tap Me</b></summary>
