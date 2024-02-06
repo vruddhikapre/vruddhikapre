@@ -63,12 +63,6 @@ My name is <em>Vruddhi Kapre</em> and I am currently pursuing Masters in Compute
   ## Hashnode Blogs (Expand to View)
 <details>
   <summary><b>Tap Me</b></summary>
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogImage?url=https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations&theme=dark" alt="Blog Card"/>
-</details>
-
-
-<details>
-  <summary><b>Tap Me</b></summary>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/devops-demystified-bridging-the-gap-between-development-and-operations&large=true&theme=dark"/>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/linux-essentials-beginners-guide&large=true&theme=dark"/>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://vruddhikapre.hashnode.dev/linux-command-line-mastery-unlocking-the-potential-of-the-terminal&large=true&theme=dark"/>
